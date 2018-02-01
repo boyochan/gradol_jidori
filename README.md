@@ -1,0 +1,2 @@
+# gradol_jidori
+iyarashii
